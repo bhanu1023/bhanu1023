@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bhanu1023
 - 👀 I’m interested in learning new technologies to solve business problems using tech
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m java and javascript developer works at Backend.
 - 📫 How to reach me: mail me at bhanupratap1023@gmail.com
 
 <!---
